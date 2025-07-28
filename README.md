@@ -6,7 +6,7 @@ Welcome to **Techlyn**, a futuristic platform delivering immersive virtual reali
 <a href="https://techlyn.vercel.app/"><strong> ➥ Launch Experience 🌍</strong></a>
 </h1>
 
-<br/>
+---
 
 ## 📸 Screenshots
 
@@ -18,7 +18,7 @@ Welcome to **Techlyn**, a futuristic platform delivering immersive virtual reali
 
 
 
-<br/>
+---
 
 ## 💻 Tech Stack
 
@@ -27,7 +27,7 @@ Welcome to **Techlyn**, a futuristic platform delivering immersive virtual reali
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-<br/>
+---
 
 ## ✨ Features
 
@@ -38,7 +38,7 @@ Welcome to **Techlyn**, a futuristic platform delivering immersive virtual reali
 - 🧭 **Smooth Scroll Navigation** – Easy section access via top navigation.
 - 💼 **Testimonials or Partners** – Carousel to showcase client feedback or partners.
 
-<br/>
+---
 
 ## 🚀 Deployment
 
