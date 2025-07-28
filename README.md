@@ -1,8 +1,6 @@
-# 🌐 Techlyn VR – Next-Gen Virtual Reality 
+# 🌐 Techlyn – Next-Gen Virtual Reality 
 
 Welcome to **Techlyn**, a futuristic platform delivering immersive virtual reality experiences like never before. Whether you're exploring virtual environments, training simulations, or gamified realities — Techlyn  aims to redefine the limits of what's possible.
-
-<br/>
 
 <h1 align="center"> 
 <a href="https://techlyn.vercel.app/"><strong> ➥ Launch Experience 🌍</strong></a>
@@ -12,7 +10,13 @@ Welcome to **Techlyn**, a futuristic platform delivering immersive virtual reali
 
 ## 📸 Screenshots
 
-![VR](image-1.png)
+<img width="1892" height="872" alt="image" src="https://github.com/user-attachments/assets/3262fe44-ab9a-4e69-87ae-c11dd08e7e5b" />
+<br />
+<img width="1894" height="876" alt="image" src="https://github.com/user-attachments/assets/7e3ec7df-ff1d-4c33-8049-2e7bdc1573c8" />
+<br />
+<img width="1894" height="874" alt="image" src="https://github.com/user-attachments/assets/2f01b605-18c1-4940-b17c-5142a938966a" />
+
+
 
 <br/>
 
@@ -27,12 +31,12 @@ Welcome to **Techlyn**, a futuristic platform delivering immersive virtual reali
 
 ## ✨ Features
 
-- 🕶️ **Immersive 3D Worlds** – Step into highly responsive and realistic VR environments.
-- 🧭 **Cross-Device Compatibility** – Runs on desktops, mobile, and VR headsets using WebXR.
-- 🧠 **Real-Time Interactions** – Dynamic and interactive elements powered by React and Three.js.
-- 🔒 **Secure Backend** – Built on Node.js & MongoDB for user data and environment states.
-- 🎨 **Clean UI** – Responsive and intuitive design using Tailwind CSS.
-- 🔧 **Modular Architecture** – Built for scalability and easy feature upgrades.
+- 🎯 **Hero Section with CTA** – Engaging banner with company vision and smooth call-to-action.
+- 🧑‍🚀 **VR Use Case Highlights** – Showcases how VR transforms different industries.
+- 🎨 **Responsive Design** – Looks stunning on mobile, tablet, and desktop.
+- 🌙 **Dark Mode Ready** – Immersive theme toggle using Tailwind.
+- 🧭 **Smooth Scroll Navigation** – Easy section access via top navigation.
+- 💼 **Testimonials or Partners** – Carousel to showcase client feedback or partners.
 
 <br/>
 
